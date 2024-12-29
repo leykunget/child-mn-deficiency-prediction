@@ -37,7 +37,7 @@ ui <- page_navbar(
     "Prediction Dashboard",
     layout_sidebar(
       sidebar = sidebar(
-        width = 300,
+        width = 280,
         title = "Input Parameters",
         
         accordion(
